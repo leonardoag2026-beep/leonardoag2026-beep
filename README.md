@@ -17,7 +17,7 @@ While I'm still at IFSP, I spend my free time experimenting with new tools and h
 **Backend:** Node.js, Bun, Express, Python  
 **Database:** PostgreSQL, Redis, TypeORM  
 **Cloud:** Google Cloud, DigitalOcean, Nginx, Docker  
-**AI:** Vertex AI, LLM-integraatio, Vercel AI SDK  
+**AI:** Vertex AI, LLM Integration, Vercel AI SDK  
 **Languages:** JavaScript, TypeScript, Python, Java, C, C++, PHP
 
 ### What I'm Building
