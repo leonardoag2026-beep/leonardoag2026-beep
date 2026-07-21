@@ -26,9 +26,9 @@ Right now, I'm focusing on Evianto. Interactive seating tables for transaction s
 
 ### Languages
 
-- Portuguese-native 
-- English-fluent 
-- Spain-Advanced 
+- Portuguese — Native 
+- English — Fluent 
+- Spanish — Avançado 
 
 ---
 
