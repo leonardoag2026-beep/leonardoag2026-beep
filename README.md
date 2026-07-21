@@ -1,41 +1,26 @@
-# 💻 Full Stack Developer | Cloud & AI
+# 💻 Full Stack-Developer | Cloud and AI 
 
-**Leonardo Alves Guimaraes**  
-📍 Sao Paulo, Brazil  
-[LinkedIn](https://linkedin.com/in/leonardo-alves)
+Leonardo Alves Guimaraes 
+📍 Sao Paulo, Brasilia 
+[LinkedIn] (https://linkedin.com/in/leonardo-alves) 
 
----
+--- 
 
-### About Me
+I'm a full stack developer. I like to build entire systems from scratch at once, and I do everything myself, from the background application interface to the user interface. I am currently working on the event ticketing platform Evianto and am personally responsible for most of the technology stack, including the user site, admin panel, background application interface and even the AI-powered WhatsApp chatbot. 
 
-I'm a full stack developer who enjoys building complete systems — from backend APIs to user-facing interfaces. Right now I work at **Evianto**, an event ticketing platform where I take care of the whole stack: the customer website, the admin panel, the backend API, and even a WhatsApp chatbot powered by AI agents.
+While I'm still at IFSP, I spend my free time experimenting with new tools and honing my existing skills. 
 
-Still studying at **IFSP**, always picking up new tools and refining the ones I already know.
+* * Etu: * * React, TypeScript, Vite, Emotion CSS, React Query 
+* * Background: * * Node.js, Bun, Express, Python 
+* * Database: * * PostgreSQL, Redis, TypeORM 
+* * Cloud: * * Google Cloud, DigitalOcean, Nginx, Docker 
+* * AI: * * Vertex AI, LLM-integraatio, Vercel AI SDK 
+* * Kielet: * * JavaScript, TypeScript, Python, Java, C, C + +, PHP 
 
-### What I Work With
+Right now, I'm focusing on Evianto. Interactive seating tables for transaction sales, Mercado Pago payments, multi-agent AI chatbots for WhatsApp, admin dashboards for transaction and customer management, CI/CD pipes using Jenkins and much more. 
 
-**Frontend:** React, TypeScript, Vite, Emotion CSS, React Query  
-**Backend:** Node.js, Bun, Express, Python  
-**Database:** PostgreSQL, Redis, TypeORM  
-**Cloud:** Google Cloud, DigitalOcean, Nginx, Docker  
-**AI:** Vertex AI (Gemini), LLM integration, Vercel AI SDK  
-**Languages:** JavaScript, TypeScript, Python, Java, C, C++, PHP
+-Portuguese-native 
+-English-fluent 
+-Spain-Advanced 
 
-### What I'm Building
-
-Right now it's all about the **Evianto platform**:
-- Event sales with interactive seating maps
-- Mercado Pago payments — Pix, credit, debit
-- Multi-agent AI chatbot for WhatsApp support
-- Admin dashboard for managing events and customers
-- CI/CD pipelines via Jenkins
-
-### Languages
-
-- Portuguese — Native
-- English — Fluent
-- Spanish — Avançado
-
----
-
-*"I like building things that don't just work — they feel right."*
+* "I want to make something that not only works, but also feels good to use." *
