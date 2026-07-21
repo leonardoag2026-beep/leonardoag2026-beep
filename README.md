@@ -34,7 +34,7 @@ Right now it's all about the **Evianto platform**:
 
 - Portuguese — Native
 - English — Fluent
-- Spanish — Advanced
+- Spanish — Avançado
 
 ---
 
