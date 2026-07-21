@@ -1,8 +1,7 @@
 # 💻 Full Stack-Developer | Cloud and AI 
 
 **Leonardo Alves Guimaraes** 
-📍 Sao Paulo, Brasilia 
-[LinkedIn](https://linkedin.com/in/leonardo-alves) 
+📍 Sao Paulo - SP 
 
 --- 
 
